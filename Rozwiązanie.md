@@ -1,8 +1,10 @@
-# 🎤 Warsztaty: Hacking Kubernetes
+# 🎤 CTF Cyber.Mil Zadanie z wolumenem i sekretami
+
+Część rozwiązania oznaczona jako "Co mówisz" została utworzona przez sztuczną inteligencje na podstawie komend, których użyłem do rozwiązania zadania. Są jedynie przykładem dla osób, które nie pamiętają z prezentacji
 
 ---
 
-## 💥 CZĘŚĆ 1: Ucieczka z kontenera (Volume Hunter)
+## 💥 CZĘŚĆ 1: Volume Hunter
 
 **Co mówisz:**
 > "Zaczynamy od pierwszego scenariusza. Udało nam się przejąć plik konfiguracyjny (kubeconfig) jednego z deweloperów. Nazywa się `config4`. Zobaczmy, z czym mamy do czynienia."
